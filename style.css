@@ -1,5 +1,5 @@
 /*
-Theme Name: Crative Distillery Starter
+Theme Name: Creative Distillery Starter
 Theme URI: https://creativedistillery.com
 Author: Creative Distillery
 Author URI: https://creativedistillery.com
@@ -11,3 +11,51 @@ Text Domain: gc-starter
 Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options
 This theme, like WordPress, is licensed under the GPL.
 */
+
+/*------------------------------------------------*/
+/*----------     TABLE OF CONTENTS:     ----------*/
+/*------------------------------------------------*/
+
+/*------------------------------------------------
+  -- General
+  -- Headers
+  -- Footers
+------------------------------------------------*/
+
+
+
+/*-----------------------------------------------*/
+/*---------------     General     ---------------*/
+/*-----------------------------------------------*/
+h1, h2, h3, h4, h5, h6, p {
+  color: #4A4A4A;
+}
+
+a {
+  color: #A7A7A7;
+}
+
+/*-----------------------------------------------*/
+/*---------------     HEADERS     ---------------*/
+/*-----------------------------------------------*/
+
+
+.cd-nav {
+  justify-content: flex-end;
+}
+
+
+/*----------------------------------------------*/
+/*---------------     FOOTER     ---------------*/
+/*----------------------------------------------*/
+
+.quick-links-container {
+  line-height: 18px;
+}
+.quick-links {
+  padding: .5rem 1rem;
+}
+.cd-copyright {
+  font-size: 75%;
+  color: #A7A7A7;
+}
