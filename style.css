@@ -20,6 +20,7 @@ This theme, like WordPress, is licensed under the GPL.
   -- General
   -- Headers
   -- Footers
+  -- Blog
 ------------------------------------------------*/
 
 
@@ -58,4 +59,15 @@ a {
 .cd-copyright {
   font-size: 75%;
   color: #A7A7A7;
+}
+
+
+/*--------------------------------------------*/
+/*---------------     Blog     ---------------*/
+/*--------------------------------------------*/
+
+.cd-blog-card {
+  background-color: #EEEEEE;
+  height: 300px;
+  margin: 0 5px;
 }
