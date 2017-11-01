@@ -1,4 +1,4 @@
-      <div class="row">
+      <div class="row cd-footer">
 
         <?php get_sidebar( 'footer_left' ); ?>
         <?php get_sidebar( 'footer_left_center' ); ?>
